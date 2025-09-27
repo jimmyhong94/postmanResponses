@@ -1,0 +1,52 @@
+{
+    "access_token": "eyJhbGciOiJIUzI1NiIsImtpZCI6Im8zZmp2NU5lR1BJcFR1VDMiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL2Fod2xpcXVwY2N2bHdycWdmdXh3LnN1cGFiYXNlLmNvL2F1dGgvdjEiLCJzdWIiOiIwZTEyZGY0OS1mNDhhLTQ2NmQtODY5MS0yOGJmNmYyOGZjZGEiLCJhdWQiOiJhdXRoZW50aWNhdGVkIiwiZXhwIjoxNzU4OTMzODMzLCJpYXQiOjE3NTg5MzAyMzMsImVtYWlsIjoiamltbGl0aWNhbEBnbWFpbC5jb20iLCJwaG9uZSI6IiIsImFwcF9tZXRhZGF0YSI6eyJwcm92aWRlciI6ImVtYWlsIiwicHJvdmlkZXJzIjpbImVtYWlsIl19LCJ1c2VyX21ldGFkYXRhIjp7ImVtYWlsIjoiamltbGl0aWNhbEBnbWFpbC5jb20iLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwicGhvbmVfdmVyaWZpZWQiOmZhbHNlLCJzdWIiOiIwZTEyZGY0OS1mNDhhLTQ2NmQtODY5MS0yOGJmNmYyOGZjZGEifSwicm9sZSI6ImF1dGhlbnRpY2F0ZWQiLCJhYWwiOiJhYWwxIiwiYW1yIjpbeyJtZXRob2QiOiJwYXNzd29yZCIsInRpbWVzdGFtcCI6MTc1ODkzMDIzM31dLCJzZXNzaW9uX2lkIjoiZDRkODUzZWQtOWI3OS00OGRhLWE1NWEtYmZmN2FmMGIzNTMxIiwiaXNfYW5vbnltb3VzIjpmYWxzZX0.dsLSzlTU49116AZYK57NW7aH3yU-xTxO_5wwMSmlvvM",
+    "token_type": "bearer",
+    "expires_in": 3600,
+    "expires_at": 1758933833,
+    "refresh_token": "hstr4eqqsuop",
+    "user": {
+        "id": "0e12df49-f48a-466d-8691-28bf6f28fcda",
+        "aud": "authenticated",
+        "role": "authenticated",
+        "email": "jimlitical@gmail.com",
+        "email_confirmed_at": "2025-09-26T23:43:24.417259Z",
+        "phone": "",
+        "confirmation_sent_at": "2025-09-26T23:25:33.175253Z",
+        "confirmed_at": "2025-09-26T23:43:24.417259Z",
+        "last_sign_in_at": "2025-09-26T23:43:53.200023059Z",
+        "app_metadata": {
+            "provider": "email",
+            "providers": [
+                "email"
+            ]
+        },
+        "user_metadata": {
+            "email": "jimlitical@gmail.com",
+            "email_verified": true,
+            "phone_verified": false,
+            "sub": "0e12df49-f48a-466d-8691-28bf6f28fcda"
+        },
+        "identities": [
+            {
+                "identity_id": "82695cf9-60cb-41c7-b2d6-0b713bc420c7",
+                "id": "0e12df49-f48a-466d-8691-28bf6f28fcda",
+                "user_id": "0e12df49-f48a-466d-8691-28bf6f28fcda",
+                "identity_data": {
+                    "email": "jimlitical@gmail.com",
+                    "email_verified": true,
+                    "phone_verified": false,
+                    "sub": "0e12df49-f48a-466d-8691-28bf6f28fcda"
+                },
+                "provider": "email",
+                "last_sign_in_at": "2025-09-26T23:25:33.154384Z",
+                "created_at": "2025-09-26T23:25:33.154445Z",
+                "updated_at": "2025-09-26T23:25:33.154445Z",
+                "email": "jimlitical@gmail.com"
+            }
+        ],
+        "created_at": "2025-09-26T23:25:33.110358Z",
+        "updated_at": "2025-09-26T23:43:53.201704Z",
+        "is_anonymous": false
+    },
+    "weak_password": null
+}
