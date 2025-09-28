@@ -1,0 +1,30 @@
+[
+    {
+        "id": "189fac29-885d-4f88-8592-94d3fe10487b",
+        "user_id": "0e12df49-f48a-466d-8691-28bf6f28fcda",
+        "name": "new playlist 2",
+        "type": "auto",
+        "created_at": "2025-09-27T22:26:36.865154+00:00"
+    },
+    {
+        "id": "80c35aad-6eb4-4914-8724-5aa9958b01c9",
+        "user_id": "0e12df49-f48a-466d-8691-28bf6f28fcda",
+        "name": "Test Policy",
+        "type": "auto",
+        "created_at": "2025-09-27T22:32:51.64925+00:00"
+    },
+    {
+        "id": "14cbe17d-ac74-43f0-81be-3b276c11e70c",
+        "user_id": "0e12df49-f48a-466d-8691-28bf6f28fcda",
+        "name": "new1",
+        "type": "auto",
+        "created_at": "2025-09-27T22:49:52.849089+00:00"
+    },
+    {
+        "id": "e2bd149f-33a6-48c2-bcd9-15875b52ca1b",
+        "user_id": "0e12df49-f48a-466d-8691-28bf6f28fcda",
+        "name": "nesdfw1sdf",
+        "type": "auto",
+        "created_at": "2025-09-27T21:25:52.77698+00:00"
+    }
+]
